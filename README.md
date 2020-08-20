@@ -1,6 +1,5 @@
 ### Hi there, I'm Kürşat - aka [kursatfelsen] 👋
-<!--
-**kursatfelsen/kursatfelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## I am a student and a developer (a little)!
 
