@@ -38,15 +38,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="kursatfelsen's Github Stats" src="https://github-readme-stats.kursatfelsen.vercel.app/api?username=kursatfelsen&show_icons=true&hide_border=true" />
+  <img align="left" alt="kursatfelsen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kursatfelsen&show_icons=true&hide_border=true" />
 
 </details>
-
 <br />
 <br />
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kursatfelsen)](https://github.com/kursatfelsen/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
   
