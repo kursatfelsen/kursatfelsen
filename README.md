@@ -12,6 +12,7 @@
 - ⚡ Fact: I love to learn history so much.
 
 
+
 ### Connect with me:
 
 [<img align="left" alt="Kursat Kaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
