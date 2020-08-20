@@ -11,7 +11,6 @@
 - 📫 How to reach me: You can see below
 - ⚡ Fact: I love to learn history so much.
 
-[website]:(https://upload.wikimedia.org/wikipedia/commons/f/ff/Sudoku-by-L2G-20050714.svg](https://github.com/kursatfelsen/Mypythoncodes/blob/master/SudokuSolver)
 
 ### Connect with me:
 
@@ -24,13 +23,13 @@
 
 ### My Languages and Tools:
 
-[<img align="left" alt="PyCharm" width="26px" src="http://www.mubuto.com/img/pycharm.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="C" width="26px" src="https://www.techbaz.org/Course/img/c-logo.png" />]
-[<img align="left" alt="Python" width="26px" src="https://i1.wp.com/stickker.net/wp-content/uploads/2015/09/python.png?fit=600%2C600&ssl=1" />]
+[<img align="left" alt="PyCharm" width="26px" src="http://www.mubuto.com/img/pycharm.png" />][wb]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][wb]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][wb]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][wb]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][wb]
+[<img align="left" alt="C" width="26px" src="https://www.techbaz.org/Course/img/c-logo.png" />][wb]
+[<img align="left" alt="Python" width="26px" src="https://i1.wp.com/stickker.net/wp-content/uploads/2015/09/python.png?fit=600%2C600&ssl=1" />][wb]
 
 <br />
 <br />
@@ -42,3 +41,5 @@
 [twitter]: https://twitter.com/kursat_felsen
 [linkedin]: https://www.linkedin.com/in/k%C3%BCr%C5%9Fat-kaya-a5b5a4188/
 [COW]: https://cow.ceng.metu.edu.tr/u/e2448587
+[wb]: https://github.com/kursatfelsen
+[website]: https://github.com/kursatfelsen/Mypythoncodes/blob/master/SudokuSolver
