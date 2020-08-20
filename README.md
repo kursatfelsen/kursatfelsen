@@ -11,7 +11,7 @@
 - 📫 How to reach me: You can see below
 - ⚡ Fact: I love to learn history so much.
 
-
+<br />
 
 ### Connect with me:
 
@@ -35,10 +35,21 @@
 <br />
 <br />
 
----
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="kursatfelsen's Github Stats" src="https://github-readme-stats.kursatfelsen.vercel.app/api?username=kursatfelsen&show_icons=true&hide_border=true" />
 
+</details>
 
+<br />
+<br />
+
+<details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kursatfelsen)](https://github.com/kursatfelsen/github-readme-stats)
+
+</details>
+  
 [twitter]: https://twitter.com/kursat_felsen
 [linkedin]: https://www.linkedin.com/in/k%C3%BCr%C5%9Fat-kaya-a5b5a4188/
 [COW]: https://cow.ceng.metu.edu.tr/u/e2448587
