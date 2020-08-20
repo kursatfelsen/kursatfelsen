@@ -11,7 +11,7 @@
 - 📫 How to reach me: You can see below
 - ⚡ Fact: I love to learn history so much.
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/kursatfelsen/Mypythoncodes/blob/master/SudokuSolver)
+[![Website](https://upload.wikimedia.org/wikipedia/commons/f/ff/Sudoku-by-L2G-20050714.svg](https://github.com/kursatfelsen/Mypythoncodes/blob/master/SudokuSolver)
 
 ### Connect with me:
 
