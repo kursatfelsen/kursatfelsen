@@ -3,7 +3,7 @@
 
 ## I am a student and a developer (a little)!
 
-- 🔭 I’m currently working on a [sudoku solver][website]!
+- 🔭 I’m currently working on a [population simulation][website]!
 - 🌱 I’m currently learning everything 🤣. However, especially python specializations.
 - 👯 I’m looking to collaborate with other Python or C coders.
 - 🤔 I’m looking for help with mobile app making. Und ein bischen Deutsch :blush: .
