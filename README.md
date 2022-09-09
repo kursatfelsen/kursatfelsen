@@ -1,16 +1,13 @@
 ### Hi there, I'm Kürşat - aka kursatfelsen 👋
 
 
-## I am a student and a developer (a little)!
+## I am a student and a developer!
 
-- 🔭 I’m currently working on a Django Website
-- 🌱 I’m currently learning everything 🤣. However, especially python specializations.
-- 👯 I’m looking to collaborate with other Python or C coders.
-- 🤔 I’m looking for help with mobile app making. Und ein bischen Deutsch :blush: .
+- 🔭 I’m currently working on a Unity game.
+- 🌱 I’m currently learning game development in Unity 3D.
+- 👯 I’m looking to collaborate with other Python coders.
 - 💬 You can ask me about everything. Even if I do not know the subject I will try to help with other ways.
 - 📫 How to reach me: You can see below
-- ⚡ Fact: I love to learn history so much.
-
 <br />
 
 ### Connect with me:
