@@ -3,8 +3,7 @@
 
 ## I am a student and a developer!
 
-- 🔭 I’m currently working on a Unity game.
-- 🌱 I’m currently learning game development in Unity 3D.
+- 🔭 I’m currently working on a final project.
 - 👯 I’m looking to collaborate with other Python coders.
 - 💬 You can ask me about everything. Even if I do not know the subject I will try to help with other ways.
 - 📫 How to reach me: You can see below
