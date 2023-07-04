@@ -1,9 +1,9 @@
 ### Hi there, I'm Kürşat - aka kursatfelsen 👋
 
 
-## I am a student and a developer!
+## I am a cloud-oriented software engineer!
 
-- 🔭 I’m currently working on a final project.
+- 🔭 I’m currently in the boot camp of Ctrl+ Future program.
 - 👯 I’m looking to collaborate with other Python coders.
 - 💬 You can ask me about everything. Even if I do not know the subject I will try to help with other ways.
 - 📫 How to reach me: You can see below
